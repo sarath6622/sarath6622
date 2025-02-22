@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @sarath6622
-- 👀 I’m interested in Web Development and Android Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on React Apps
-- 📫 Reach me on sarathsanthan6622@gmail.com
+🚀 Cloud Engineer | DevOps | AI Enthusiast
 
-<!---
-sarath6622/sarath6622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I’m a Cloud Engineer with 4+ years of experience specializing in Azure, DevOps, and AI solutions. I love automating infrastructure, optimizing cloud performance, and building intelligent applications.
+
+🔧 Tech Stack & Skills:
+	•	Cloud & DevOps: Azure, Terraform, CI/CD (Azure DevOps, GitHub Actions)
+	•	AI & ML: Azure AI, AI-powered automation
+	•	Development: React, Next.js, Node.js
+	•	Infrastructure Monitoring & Incident Management
+
+🌟 Projects I’m Working On:
+	•	Trust Bite 🍽️ – A restaurant review & complaint management system built with Next.js & SQL
+	•	Azure AI Chatbot 🤖 – A documentation-based chatbot for internal project assistance
+	•	ML-based Capacity Prediction 📊 – Forecasting Azure infrastructure needs using AI
+
+🎯 What I’m Learning:
+
+🔹 Advanced Terraform for Infrastructure as Code
+🔹 Enhancing AI model training & evaluation
+🔹 Building scalable, production-ready Next.js applications
+
+💡 Always open to collaboration & new ideas! Check out my repositories and feel free to connect. 🚀
